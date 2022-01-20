@@ -8,6 +8,6 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/sample-accelerators/tanzu-java-web-app-cap
+      url: https://github.com/zeus1989/tanzu-java-web-app-cap
       ref:
         branch: main
